@@ -1,0 +1,10 @@
+.messages {
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+  }
+  .logo{
+    opacity: 0.6;
+    padding: 20px;
+    
+  }
